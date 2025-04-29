@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kothapalliyamini91/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kothapalliyamini91/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kothapalliyamini91/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kothapalliyamini91/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kothapalliyamini91/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kothapalliyamini91/LeetCode/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/kothapalliyamini91/LeetCode/tree/master/0120-triangle) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kothapalliyamini91/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kothapalliyamini91/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kothapalliyamini91/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kothapalliyamini91/LeetCode/tree/master/0027-remove-element) |
 ## Greedy
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kothapalliyamini91/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kothapalliyamini91/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
