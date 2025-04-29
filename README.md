@@ -36,4 +36,16 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/kothapalliyamini91/LeetCode/tree/master/0120-triangle) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kothapalliyamini91/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kothapalliyamini91/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kothapalliyamini91/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
