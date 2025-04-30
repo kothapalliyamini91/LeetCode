@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kothapalliyamini91/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/kothapalliyamini91/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kothapalliyamini91/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/kothapalliyamini91/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
