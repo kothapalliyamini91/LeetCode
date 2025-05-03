@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kothapalliyamini91/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kothapalliyamini91/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kothapalliyamini91/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kothapalliyamini91/LeetCode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
