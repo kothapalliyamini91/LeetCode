@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/kothapalliyamini91/LeetCode/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/kothapalliyamini91/LeetCode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/kothapalliyamini91/LeetCode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kothapalliyamini91/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kothapalliyamini91/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/kothapalliyamini91/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
