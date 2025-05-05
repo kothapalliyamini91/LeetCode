@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/kothapalliyamini91/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kothapalliyamini91/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kothapalliyamini91/LeetCode/tree/master/0027-remove-element) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/kothapalliyamini91/LeetCode/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kothapalliyamini91/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
@@ -46,6 +47,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/kothapalliyamini91/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kothapalliyamini91/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kothapalliyamini91/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kothapalliyamini91/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
