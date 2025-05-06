@@ -72,12 +72,14 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kothapalliyamini91/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kothapalliyamini91/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kothapalliyamini91/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kothapalliyamini91/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/kothapalliyamini91/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kothapalliyamini91/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/kothapalliyamini91/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -89,6 +91,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kothapalliyamini91/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kothapalliyamini91/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/kothapalliyamini91/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Heap (Priority Queue)
