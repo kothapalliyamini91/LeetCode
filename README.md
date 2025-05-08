@@ -110,4 +110,20 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kothapalliyamini91/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kothapalliyamini91/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kothapalliyamini91/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kothapalliyamini91/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kothapalliyamini91/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
